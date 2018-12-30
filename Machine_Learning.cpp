@@ -7,8 +7,8 @@
   ///////////////////////////////////////////
 
 
-#include"iostream"
-#include"math.h"
+#include<iostream>
+#include<math.h>
 using std::cout;
 using std::cin;
 using std::endl;
