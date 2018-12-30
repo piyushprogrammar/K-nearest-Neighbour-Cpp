@@ -1,2 +1,2 @@
-# K-nearest-Neighbour-Cpp
-C++ program for illustrating simple machine learning Classifier (K-nearest neighbour)
+# K-nearest Neighbour Classifier using C++
+This is a very simple program for illustrating one of the simplest Machine Learning classifiers (K-nearest neighbours). The program is very simple and only considres one neighbour to make it more simple. The formula for getting distance of the test point from feature points is also not pure I have not included the square root in the formula so it does'nt gets the real distance from the points.Inspite of this the rrsults are same in both situations.
